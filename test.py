@@ -27,5 +27,4 @@ losers = [item.text for item in soup.find('div', {'id': 'stock-results'}).find('
 TODO:
 - log initial gainers and losers list
 - stream data. calculate trailing stop loss yourself.
-xxx
 '''
