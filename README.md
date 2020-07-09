@@ -1,5 +1,5 @@
 # premarket-mover-bot
-An experiment with Algotrading. At 9:30 EDT this bot finds the biggest positive premarket movers and shorts them with a (soon to be trailing) stop loss.
+An experiment with Algotrading. At 9:30am EDT this bot finds the biggest positive premarket movers and shorts them with a (soon to be trailing) stop loss.
 
 Premarket stock data scraped from https://www.benzinga.com/money/premarket-movers/.
 
